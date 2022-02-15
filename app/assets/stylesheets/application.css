@@ -16,3 +16,19 @@
 body {
   padding-top: 7em;
 }
+
+h1 {
+  padding: 0.5em;
+  padding-left: 0;
+  display: flex;
+  margin-left: 0;
+  text-decoration: underline;
+}
+
+a {
+  margin: 0.2em;
+}
+
+h3 {
+  padding-top: 0.2em;
+}
