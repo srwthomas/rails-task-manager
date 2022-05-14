@@ -8,7 +8,15 @@ To Do Manager with the basic CRUD features:
 - As a user, I can edit a task (mark as completed / update title & details)
 - As a user, I can remove a task
 
-Specs: 
 
-* Ruby version: ruby '3.0.3'
+Spec
+- ruby '3.0.3'
+- bundler:2.3.11
+- SQLITE
 
+Setup
+- clone
+- bundle install
+- db:migrate
+- db:seed
+- rails s
